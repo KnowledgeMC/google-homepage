@@ -34,6 +34,11 @@ li {
 
 #middle {
   display: block;
-  margin-left: 300px;
+  margin: auto;
 
+}
+
+#logo {
+  display: block;
+  margin: auto;
 }
