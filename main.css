@@ -1,0 +1,39 @@
+* {
+  border: 1px dashed black;
+}
+
+a {
+  text-decoration: none;
+  color: #757575;
+  font-family: arial;
+  font-size: 12px;
+  padding: 10px;
+  display: block;
+
+}
+ul {
+  list-style-type: none;
+  float: right;
+
+}
+li {
+  float: left;
+}
+
+.button {
+  width: 125px;
+  height: 36px;
+  color #757575;
+  margin: 20px;
+}
+
+#field {
+  width: 403px;
+  height: 34px;
+}
+
+#middle {
+  display: block;
+  margin-left: 300px;
+
+}
